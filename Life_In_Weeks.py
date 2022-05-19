@@ -1,3 +1,4 @@
+#Prompts the user to input their age
 age = input("What is your current age?")
 
 #Casting age from str to int so we can do calculations on the input
